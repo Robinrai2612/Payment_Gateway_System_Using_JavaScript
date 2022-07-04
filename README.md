@@ -1,1 +1,1 @@
-#  The Spark Foundatiin Donation-Website
+#  The Spark Foundation Donation-Website
